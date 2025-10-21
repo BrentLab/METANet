@@ -1,0 +1,21 @@
+# R Packages
+abind: 1.4-8
+DESeq2: 1.46.0
+dplyr: 1.1.4
+edgeR: 4.4.1
+ggplot2: 4.0.0
+glmnet: 4.1-8
+magrittr: 2.0.3
+Matrix: 1.7-2
+matrixStats: 1.5.0
+stringr: 1.5.1
+tidyr: 1.3.1
+
+# Python Environment, intended for python: 3.9.xx
+hyperopt: 0.2.7
+numpy: 2.0.2
+pandas: 2.3.2
+pyranges: 0.1.2
+scikit-learn: 1.5.2
+venny4py: 1.0.2
+xgboost: 2.1.1
