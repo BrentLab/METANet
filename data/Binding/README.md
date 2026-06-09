@@ -5,6 +5,7 @@
 * `REMAP2020_TFs_list.txt` lists 799 Lambert TFs with high-confidence binding peaks.
 * `Remap_binding_scores.bed` is the ground truth file used for training
   METANets. This file was generated using scripts in `scripts/remap_labels`.
+  This file is too large for GitHub: it has been deposited in Zenodo.
 
 
 REFERENCES
