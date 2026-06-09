@@ -3,6 +3,8 @@
 * ChIP-seq data for human transcription factors (TFs) were downloaded from the REMAP 2020 database [1].
 * `DatabaseExtract_v_1.01.txt` lists TFs  defined by Lambert et al [2].
 * `REMAP2020_TFs_list.txt` lists 799 Lambert TFs with high-confidence binding peaks.
+* `Remap_binding_scores.bed` is the ground truth file used for training
+  METANets. This file was generated using scripts in `scripts/remap_labels`.
 
 
 REFERENCES
